@@ -3,7 +3,7 @@
 When the user clicks the question displayed on the screen, the answer is revealed.
 
 ### App Walk-though
-<img src="http://recordit.co/OhSu9M8lId" width=200><br>
+<img src="http://recordit.co/OhSu9M8lId.gif" width=200><br>
 
 
 
