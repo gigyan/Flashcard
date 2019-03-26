@@ -30,4 +30,4 @@ When the user clicks the question displayed on the screen, the answer is reveale
 - [ x] Add a view for the front side of the flashcard to display the question
 - [ x] Add a view for the back side of the flashcard to display the answer
 - [ x] Build in logic to show the answer side when the card is tapped
-- [ x] Push code to GitHu
+- [ x] Push code to GitHub
