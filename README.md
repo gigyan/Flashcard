@@ -16,7 +16,7 @@ User can now create a card and display it
 - [ x] Push your progress to GitHub!
 
 
-# Flashcard
+# QuizMe App
 ### App Description 
 When the user clicks the question displayed on the screen, the answer is revealed.
 
