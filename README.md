@@ -44,4 +44,4 @@ Added a couple animations and styling to the app.
 ## Features
 - Animation for when the user clicks ‘->’  to view another card
 - Animation for when the user clicks the question side of a card
--Added a delete button to delete cards
+- Added a delete button to delete cards
