@@ -39,7 +39,7 @@ Added a couple animations and styling to the app.
 
 ### App Walk-though
 
-<img src=http://recordit.co/rHCB4wYUKk.gif><br>
+<img src=http://recordit.co/rHCB4wYUKk.gif width=200><br>
 
 ## Features
 - Animation for when the user clicks ‘->’  to view another card
