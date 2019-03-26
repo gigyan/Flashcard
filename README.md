@@ -1,5 +1,5 @@
 
-## Lab 2
+## Version 2
 
 ### App Description
 User can now create a card and display it
